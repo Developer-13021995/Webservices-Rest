@@ -3,9 +3,9 @@ Hands on of various concepts in python
 
 
 
-`Exception Hierarchy`
+# Exception Hierarchy
 
-BaseException
+`BaseException
  +-- SystemExit
  +-- KeyboardInterrupt
  +-- GeneratorExit
@@ -69,3 +69,4 @@ BaseException
            +-- UnicodeWarning
            +-- BytesWarning
            +-- ResourceWarning
+`
