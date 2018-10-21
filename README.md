@@ -5,7 +5,7 @@ Hands on of various concepts in python
 
 # Exception Hierarchy
 
-`BaseException
+```BaseException
  +-- SystemExit
  +-- KeyboardInterrupt
  +-- GeneratorExit
@@ -69,4 +69,4 @@ Hands on of various concepts in python
            +-- UnicodeWarning
            +-- BytesWarning
            +-- ResourceWarning
-`
+```
