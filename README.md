@@ -1,2 +1,2 @@
-# Webservices-Rest
-Sample Rest application using swagger, actuator, devtools, JPA
+# Python(3) Hands On
+Hands on of various concepts in python
