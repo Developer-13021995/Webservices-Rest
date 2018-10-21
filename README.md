@@ -3,7 +3,7 @@ Hands on of various concepts in python
 
 
 
-# Exception Hierarchy
+## Exception Hierarchy
 
 ```
 BaseException
